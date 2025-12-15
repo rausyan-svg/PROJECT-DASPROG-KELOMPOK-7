@@ -1,1 +1,8 @@
-tes
+ANGGOTA KELOMPOK :
+  1. Rausyan Jaisyu Muhammad (5048251041)
+  2. M. Haidar Rosyadi       (5048251038)
+  3. Hafez Muhammad Fathan   (5048251070)
+
+PENJELASAN HUKUM OHM - RESISTOR SERI (Rausyan Jaisyu Muhammad)
+
+  Kode program C tersebut merupakan **kalkulator listrik sederhana** yang dibuat untuk membantu melakukan perhitungan dasar pada rangkaian listrik, dengan menerapkan konsep pemrograman dasar secara terstruktur. Program ini terdiri dari beberapa fungsi yang masing-masing memiliki tugas tertentu. Fungsi `kalkulatorOhm()` digunakan untuk menghitung tegangan, arus, atau hambatan berdasarkan Hukum Ohm dengan memberikan pilihan kepada pengguna mengenai besaran yang ingin dihitung, kemudian program meminta dua nilai lainnya sebagai input dan menampilkan hasil perhitungannya. Fungsi `kalkulatorDaya()` berfungsi untuk menghitung daya listrik dengan menggunakan rumus P = V × I, di mana pengguna memasukkan nilai tegangan dan arus lalu program menampilkan hasil daya dalam satuan Watt. Sementara itu, fungsi `resistorSeri()` digunakan untuk menghitung total hambatan pada rangkaian resistor seri dengan cara menjumlahkan nilai setiap resistor yang dimasukkan oleh pengguna melalui perulangan. Pada akhir setiap fungsi terdapat perintah `getchar(); getchar();` yang bertujuan untuk menahan tampilan agar hasil perhitungan dapat dilihat sebelum program berlanjut. Secara keseluruhan, program ini telah menerapkan penggunaan fungsi, input dan output, percabangan, perulangan, serta rumus dasar kelistrikan, sehingga mudah dipahami dan sesuai untuk pemula yang sedang mempelajari bahasa C dan konsep dasar listrik.
